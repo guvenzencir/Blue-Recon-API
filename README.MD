@@ -24,7 +24,7 @@ Projenin çalışması için bilgisayarınızda **Python 3.x** kurulu olmalıdı
 ### ⚙️ Kurulum
 
 1. Repoyu bilgisayarınıza indirin:
-   git clone https://github.com/SENIN_GITHUB_KULLANICI_ADIN/Blue-Recon-API.git
+   git clone https://github.com/guvenzencir/Blue-Recon-API.git
    cd Blue-Recon-API
 
 2. Gerekli kütüphaneleri yükleyin:
@@ -65,7 +65,7 @@ Instead of manually investigating suspicious IP addresses, it simultaneously que
 ### ⚙️ Installation
 
 1. Clone the repository:
-   git clone https://github.com/YOUR_GITHUB_USERNAME/Blue-Recon-API.git
+   git clone https://github.com/guvenzencir/Blue-Recon-API.git
    cd Blue-Recon-API
 
 2. Install required libraries:
